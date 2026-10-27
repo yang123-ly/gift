@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "project": {
+    "name": "141cPiV8",
+    "description": ""
+  },
+  "dev": {
+    "command": "npm run dev"
+  },
+  "preview": {
+    "template": "${endpoint}/"
+  }
+}
